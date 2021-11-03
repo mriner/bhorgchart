@@ -34,8 +34,8 @@ name,tenure,area,profileUrl,office,tags,dept,positionName,id,parentId,size
 -,Fixed,STAFF,1,ADG/HUB/OPS/,BER,0,Legal Counsel,0.2.1.4,0.2.1.1,P4
 -,Fixed,STAFF,1,ADG/HUB/OPS/,BER,0,Finance Officer,0.2.2.5,0.2.1.1,P4
 -,N/A,NON-STAFF,1,ADG/HUB/OPS/,N/A,0,Finance Officer,0.2.2.6,0.2.2.5,P3
--,Fixed,STAFF,1,ADG/HUB/OPS/,BER,0,Human Resources Associate,0.2.2.7,0.2.2.5,P3
 -,Fixed,STAFF,1,ADG/HUB/OPS/,BER,0,Human Resources Officer,0.2.3.8,0.2.1.1,P4
+-,Fixed,STAFF,1,ADG/HUB/OPS/,BER,0,Human Resources Associate,0.2.3.7,0.2.3.8,P3
 -,Fixed,STAFF,0.833333333333333,ADG/HUB/OPS/,BER,0,Human Resources Officer,0.2.3.9,0.2.3.8,P3
 -,Temp,STAFF,1,ADG/HUB/OPS/,BER,0,Human Resources Officer,0.2.3.10,0.2.3.8,P3
 -,Fixed,STAFF,1,ADG/HUB/OPS/,BER,0,Procurement Officer,0.2.4.11,0.2.1.1,P4
