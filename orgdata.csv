@@ -8,7 +8,6 @@ name,tenure,area,profileUrl,office,tags,dept,positionName,id,parentId,size
 -,Fixed,STAFF,0.833333333333333,ADG/HUB/HI/,BER,0,Monitoring & Evaluation,0.1.1.4,0.1.1.1,P4
 -,N/A,NON-STAFF,0.666666666666667,ADG/HUB/HI/,N/A,0,Strategy Officer,0.1.1.5,0.1.1.1,P4
 -,Fixed,STAFF,1,ADG/HUB/PRJ/,GVA,0,Lead Project Management Office,0.1.2.1,0.0.0.0,P5
--,Fixed,STAFF,1,ADG/HUB/PRJ/,BER,0,Programme Officer,0.1.2.2,0.1.2.1,P5
 -,N/A,NON-STAFF,0.833333333333333,ADG/HUB/PRJ/,N/A,0,Project support officer,0.1.2.3,0.1.2.1,P3
 -,Fixed,NON-STAFF,1,ADG/HUB/PRJ/,BER,0,Project Manager,0.1.2.4,0.1.2.1,P3
 -,Fixed,STAFF,1,ADG/HUB/PRJ/,BER,0,Business Analyst,0.1.2.5,0.1.2.1,P4
@@ -30,6 +29,7 @@ name,tenure,area,profileUrl,office,tags,dept,positionName,id,parentId,size
 -,N/A,NON-STAFF,0.166666666666667,ADG/HUB/PRJ/,N/A,0,OSPO technology and capacity officer,0.1.3.18,0.1.3.12,P4
 -,Fixed,STAFF,1,ADG/HUB/OPS/,BER,0,Operations Lead / Director,0.2.1.1,0.0.0.0,D1
 -,Fixed,STAFF,1,ADG/HUB/OPS/,BER,0,Administrative support,0.2.1.2,0.2.1.1,G6
+-,Fixed,STAFF,1,ADG/HUB/OPS/,BER,0,Programme Officer,0.2.1.5,0.2.1.1,P5
 -,Fixed,STAFF,1,ADG/HUB/OPS/,BER,0,Lead Operations Support,0.2.1.3,0.2.1.1,P4
 -,Fixed,STAFF,1,ADG/HUB/OPS/,BER,0,Legal Counsel,0.2.1.4,0.2.1.1,P4
 -,Fixed,STAFF,1,ADG/HUB/OPS/,BER,0,Finance Officer,0.2.2.5,0.2.1.1,P4
