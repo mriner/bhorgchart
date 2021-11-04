@@ -55,7 +55,7 @@ name,tenure,area,profileUrl,office,tags,dept,positionName,id,parentId,size
 -,Temp,STAFF,1,ADG/HUB/CI/ADV/,BER,1,Science Communications,1.3.1.5,1.3.1.1,P3
 -,Fixed,STAFF,1,ADG/HUB/HIS/,BER,2,Director Health Intelligence Systems,2.1.1.1,0.0.0.0,D1
 -,Fixed,STAFF,0.833333333333333,ADG/HUB/HIS/,BER,2,Administrative support,2.1.1.2,2.1.1.1,G6
-
+-,Fixed,STAFF,0.833333333333333,ADG/HUB/HIS/,BER,2,Programme Officer,2.1.1.3,2.1.1.1,P4
 -,Fixed,STAFF,1,ADG/HUB/HIS/ADO/,BER,2,Lead Adoption,2.2.1.1,2.1.1.1,P5
 -,Fixed,STAFF,1,ADG/HUB/HIS/ADO/,BER,2,Administrative support,2.2.1.2,2.2.1.1,G6
 -,Temp,STAFF,0.833333333333333,ADG/HUB/HIS/ADO/,BER,2,Education / instructional design Officer,2.2.1.3,2.2.1.1,P3
@@ -78,7 +78,7 @@ name,tenure,area,profileUrl,office,tags,dept,positionName,id,parentId,size
 -,N/A,NON-STAFF,1,ADG/HUB/HIS/AAI/,N/A,2,Genome Sequencing Analyst,2.3.1.13,2.3.1.1,P3/4
 -,Fixed,STAFF,1,ADG/HUB/HIS/EIOS/,GVA,2,Unit Manager EIOS,2.4.1.1,2.1.1.1,P5
 -,Fixed,STAFF,1,ADG/HUB/HIS/EIOS/,GVA,2,Administrative support,2.4.1.2,2.4.1.1,G6
-,,,,,,,,,,
+-,Fixed,STAFF,1,ADG/HUB/HIS/EIOS/,BER,2,Technical Coordinator,2.4.3.20,2.4.1.1,P5
 -,Temp,STAFF,1,ADG/HUB/HIS/EIOS/,BER,2,Technical Officer,2.4.3.18,2.4.3.20,P3
 -,N/A,NON-STAFF,1,ADG/HUB/HIS/EIOS/,N/A,2,Project Manager,2.4.3.16,2.4.3.20,P3
 -,N/A,NON-STAFF,1,ADG/HUB/HIS/EIOS/,N/A,2,Business Analyst,2.4.3.17,2.4.3.20,P3
