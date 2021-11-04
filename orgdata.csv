@@ -21,7 +21,7 @@ name,tenure,area,profileUrl,office,tags,dept,positionName,id,parentId,size
 -,Fixed,STAFF,1,ADG/HUB/PRJ/,BER,0,Lead Project Manager,0.1.2.12,0.1.2.1,P4
 -,N/A,NON-STAFF,1,ADG/HUB/PRJ/,N/A,0,Project Manager,0.1.2.13,0.1.2.1,P3
 -,N/A,NON-STAFF,1,ADG/HUB/PRJ/,N/A,0,Project Manager,0.1.2.14,0.1.2.1,P3
--,Fixed,STAFF,1,ADG/HUB/PRJ/,BER,0,Lead Open Source Programme Office,0.1.3.12,0.1.2.1,P4/P5
+-,Fixed,STAFF,1,ADG/HUB/PRJ/,BER,0,Lead Open Source Programme Office,0.1.3.12,0.1.2.1,P5
 -,Temp,STAFF,0.833333333333333,ADG/HUB/PRJ/,BER,0,OSPO officer,0.1.3.13,0.1.3.12,P4
 -,N/A,NON-STAFF,1,ADG/HUB/PRJ/,N/A,0,OSPO officer,0.1.3.14,0.1.3.12,P4
 -,N/A,NON-STAFF,0.166666666666667,ADG/HUB/PRJ/,N/A,0,OSPO policy officer,0.1.3.15,0.1.3.12,P4
@@ -78,7 +78,7 @@ name,tenure,area,profileUrl,office,tags,dept,positionName,id,parentId,size
 -,N/A,NON-STAFF,1,ADG/HUB/HIS/AAI/,N/A,2,Genome Sequencing Analyst,2.3.1.13,2.3.1.1,P3/4
 -,Fixed,STAFF,1,ADG/HUB/HIS/EIOS/,GVA,2,Unit Manager EIOS,2.4.1.1,2.1.1.1,P5
 -,Fixed,STAFF,1,ADG/HUB/HIS/EIOS/,GVA,2,Administrative support,2.4.1.2,2.4.1.1,G6
-
+,,,,,,,,,,
 -,Temp,STAFF,1,ADG/HUB/HIS/EIOS/,BER,2,Technical Officer,2.4.3.18,2.4.3.20,P3
 -,N/A,NON-STAFF,1,ADG/HUB/HIS/EIOS/,N/A,2,Project Manager,2.4.3.16,2.4.3.20,P3
 -,N/A,NON-STAFF,1,ADG/HUB/HIS/EIOS/,N/A,2,Business Analyst,2.4.3.17,2.4.3.20,P3
