@@ -78,6 +78,7 @@ name,tenure,area,profileUrl,office,tags,dept,positionName,id,parentId,size
 -,N/A,NON-STAFF,1,ADG/HUB/HIS/AAI/,N/A,2,Social Scientist,2.3.1.12,2.3.1.1,P3/4
 -,N/A,NON-STAFF,1,ADG/HUB/HIS/AAI/,N/A,2,Genome Sequencing Analyst,2.3.1.13,2.3.1.1,P3/4
 -,Fixed,STAFF,1,ADG/HUB/HIS/EIOS/,GVA,2,Unit Manager EIOS,2.4.1.1,2.1.1.1,P5
+-,Fixed,STAFF,1,ADG/HUB/HIS/EIOS/,GVA,2,Team Lead,2.4.1.24,2.3.1.1,P4
 -,Fixed,STAFF,1,ADG/HUB/HIS/EIOS/,GVA,2,Administrative support,2.4.1.2,2.4.1.1,G6
 -,Fixed,STAFF,1,ADG/HUB/HIS/EIOS/,BER,2,Technical Coordinator,2.4.3.20,2.4.1.1,P5
 -,Fixed,STAFF,1,ADG/HUB/HIS/EIOS/,BER,2,Medical Officer,2.4.3.21,2.4.3.20,P4
